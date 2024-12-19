@@ -1,0 +1,3 @@
+12345678;kramti;marwa;12345678;marwa@gmail.com;1;03/03/0006;actif
+87654321;fakhri;amouna;87654321;ameni@gmail.com;0;04/10/0099;actif
+98765432;kramti;jesser;98765432;jesser@gmail.com;0;02/03/0099;Actif
